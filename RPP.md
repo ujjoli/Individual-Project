@@ -6,7 +6,7 @@ services at 100, with a particular region's RPP showing how the cost of living i
 
 So lets move on our analysis from following plot.
 
-![4 a](https://github.com/ujjoli/Individual-Project/blob/gh-pages/4.a..png)
+![4 a](4.a..png)
 
 This is comparison of RPP in 2018. This plot shows that the darkest color laids on Hawii, California, Massachussets, Disctrict of Colombia and New York. They have the index more than 115 where 100 is
 said to be the average. So the plot shows that Hawaii, California , Massachussets, DC and New York have highest RPP indicating they are the moest expensive place to live.
@@ -18,6 +18,6 @@ Alaska and Alabama.
 In addition, there is much disparity between the metropolitan area and non-metropolitan area. Metropolitan area are expensive than non-metropolitan area. This can
 also be shown from following figure.
 
-![4 b](https://github.com/ujjoli/Individual-Project/blob/gh-pages/screenshots/4.b..png)
+![4 b](4.b..png)
 
-With all these findings, now lets move on our [last section]( )
+With all these findings, now lets move on our [last section](comparison.md)
