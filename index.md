@@ -68,7 +68,7 @@ For full length of my code, click here
 ## 4. Visualization and Analysis
   
   For ease of visualization and analysis, I have divided the analysis part into 5 categories:
-  1. Analysis of GDP
+  1. [Analysis of GDP](GDP.md)
   2. Aanalysis of Income
   3. Analysis of Personal expenditure and Inflation
   4. Analysis of Relative Cost and living
