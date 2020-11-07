@@ -70,7 +70,7 @@ For full length of my code, click here
   For ease of visualization and analysis, I have divided the analysis part into 5 categories:
   1. [Analysis of GDP](https://github.com/ujjoli/Individual-Project/blob/gh-pages/GDP.md)
   2. [Aanalysis of Income](https://github.com/ujjoli/Individual-Project/blob/gh-pages/Income.md)
-  3. Analysis of Personal expenditure and Inflation
+  3. [Analysis of Personal expenditure and Inflation](https://github.com/ujjoli/Individual-Project/blob/gh-pages/Expenditure.md)
   4. Analysis of Relative Cost and living
   5. Co-relation between GDP and Relative Cost and living
   
