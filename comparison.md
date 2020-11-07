@@ -21,7 +21,7 @@ This plot shows that Hawaii's GDP and Hawaii's RPP have co-relation value of 0.7
 
 However, if we compare **New Jersey's** GDP with NJ's RPP, the co-relation seems to be weak.
 
-![5.c.](https://github.com/ujjoli/Individual-Project/blob/gh-pages/screenshots/5.c..png
+![5.c.](https://github.com/ujjoli/Individual-Project/blob/gh-pages/screenshots/5.c..png)
 
 
 So from above analysis we can conclude that just the GDP of state might not be enough to co-relate with state's RPP. There might be other factors they come in play.
