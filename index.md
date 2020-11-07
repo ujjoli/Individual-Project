@@ -72,7 +72,7 @@ For full length of my code, click here
   2. [Aanalysis of Income](https://github.com/ujjoli/Individual-Project/blob/gh-pages/Income.md)
   3. [Analysis of Personal expenditure and Inflation](https://github.com/ujjoli/Individual-Project/blob/gh-pages/Expenditure.md)
   4. [Analysis of Relative Cost and living](https://github.com/ujjoli/Individual-Project/blob/gh-pages/RPP.md)
-  5. Co-relation between GDP and Relative Cost and living
+  5. [Co-relation between GDP and Relative Cost and living](comparison.md)
   
  ## 6. Findings and Conclusions
  
