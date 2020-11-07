@@ -19,7 +19,7 @@ Similarly, **comparing for Hawaii**
 This plot shows that Hawaii's GDP and Hawaii's RPP have co-relation value of 0.7 which means that they also have strong and positive relation.
 
 
-However, if we compare **New Jersey's** GDP with NJ's RPP, the co-relation seems to be weak.
+However, if we compare **New Jersey's** GDP with NJ's RPP, the co-relation seems to be weak
 
 ![5.c.](5.c..png)
 
