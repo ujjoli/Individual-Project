@@ -58,6 +58,7 @@ fig_tab.show()
 ```
 
 ![1 c](1.c..png)
+
 So, from the table it becomes clear that California is in top of the table, being followed by Texas, New York and Florida. Now, we know that California is at top state with highest GDP, let's see which industries in California are contributing to its GDP. In other words, lets see which indusrty is most growing industry in California.
 
 ![1 d](1..d.png)
