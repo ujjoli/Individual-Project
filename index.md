@@ -74,7 +74,7 @@ For full length of my code, click here
   4. [Analysis of Relative Cost and living](RPP.md)
   5. [Co-relation between GDP and Relative Cost and living](comparison.md)
   
- ## 6. Findings and Conclusions
+ ## 5. Findings and Conclusions
  
  * From all the analysis and visualizations, it was interesting to find that California has the highest GDP in 2019 and it's GDP major contribution comes 
  from Real estate, rental and leasing area with 40.0% .This can indicate that businesses related to real estate must be in good position and there might be a 
@@ -101,7 +101,7 @@ For full length of my code, click here
  We can be convinced that, if we get job offer from California and Alaska with equal salaries and benefits (assuming all other facilites to be similar) and 
  want cheaper place to live in, we have to go with job offer from Alaska and Alabama.
 
-* Finally, I would like to see if increase in GDP of that state will increase RPP of that state. Though California, Hawaii's GDP had positive realtion 
+* Finally, even though California, Hawaii's GDP had positive realtion 
 with their RPP, just the GDP of state might not be enough to co-relate with state's RPP. There might be other factors they come in play.
 
 
