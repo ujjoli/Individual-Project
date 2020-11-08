@@ -58,4 +58,4 @@ fig.show()
 
 From this analysis, we can shed some light that per person in most of all states have top priority to spend in housing and utility, health care and financial services and insurance.That is why affordable health care and affordable health care is always the biggest question.
 
-Now, coming with this conclusion, let's specifically narrow down our topic to housing and utility. In other words, living and rental cost and move in our [next section](RPP.md)
+Now, coming with this conclusion, let's specifically narrow down our topic to **housing and utility**. In other words, living and rental cost and move in our [next section](RPP.md)
