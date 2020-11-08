@@ -50,8 +50,3 @@ so for more section, [click here](Expenditure.md)
 
 
 
-
-
-
-
-[link](https://github.com/ujjoli/analysis1/edit/main/README.md)
