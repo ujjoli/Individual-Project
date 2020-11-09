@@ -2,7 +2,7 @@
 
 To start with the visualization, first I would like to see GDP of all 50 states and DC.And actually see how are have they increased their GDP from 2009 to 2019. In this regard, first I would like to see these 50 states including DC with their GDP change.
 
-Click [link]( to see the code.
+Click [link](https://github.com/ujjoli/Individual-Project/blob/gh-pages/Individual%20Project%2002.ipynb) to see the full code.
 
 ```
 fig = go.Figure(data=go.Choropleth( #using graph objects
