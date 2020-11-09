@@ -74,7 +74,7 @@ For full length of my code, [click here](https://github.com/ujjoli/Individual-Pr
   4. [Analysis of Relative Cost and living](RPP.md)
   5. [Co-relation between GDP and Relative Cost and living](comparison.md)
   
- ## 5. Findings and Conclusions
+## 5. Findings and Conclusions
  
  * From all the analysis and visualizations, it was interesting to find that California has the highest GDP in 2019 and it's GDP major contribution comes 
  from Real estate, rental and leasing area with 40.0% .This can indicate that businesses related to real estate must be in good position and there might be a 
