@@ -4,6 +4,7 @@ After analyzing GDP by state, let's analyze Income of each state and by differen
 
 We are comparing personal income by state so Lets see the plot. The plot shows that over time the personal income has been increasing in all states and people are being able to bring more paycheck to home. 
 
+Click[here](https://github.com/ujjoli/Individual-Project/blob/gh-pages/Individual%20Project%2002.ipynb) for full code.
 
 ![2a](2.a..png)
 
