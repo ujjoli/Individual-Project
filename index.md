@@ -30,7 +30,7 @@ from dash.dependencies import Input, Output      #to make the dash apps interact
 from IPython.display import display
 plotly.offline.init_notebook_mode()
 ```
-For full length of my code, [click here](Individual Project 02.ipynb)
+For full length of my code, [click here](https://github.com/ujjoli/Individual-Project/blob/gh-pages/Individual%20Project%2002.ipynb)
 
 ## 2. Importing files and Reading
 I downloaded the zipfiles from BEA's website. I downloaded 9 of them each of around 50000 rows and 30 columns.
@@ -45,7 +45,7 @@ def extract_zipfile(file):
     file='SAINC Annual Personal Income and Employment By State.zip'
     zip_read_api = extract_zipfile(file)
   ```
- For full length of my code, click here
+ For full length of my code, [click here](https://github.com/ujjoli/Individual-Project/blob/gh-pages/Individual%20Project%2002.ipynb)
 ## 3. Filtering data and Processing
 To come up with specific insights, visualization, filtering and processing of datasets is necessary, so many times I used dropping, accessing specific rows and columns, iterating over list, columns and rows, performing some calculations and even sometime creating a new data frame from the data I have.
 Some sample of my code is:
@@ -64,7 +64,7 @@ def filter(x):
     return x_filter  
   (Note: This is just sample.)
 ```
-For full length of my code, [click here](Individual Project 02.ipynb)
+For full length of my code, [click here](https://github.com/ujjoli/Individual-Project/blob/gh-pages/Individual%20Project%2002.ipynb)
 ## 4. Visualization and Analysis
   
   For ease of visualization and analysis, I have divided the analysis part into 5 categories:
