@@ -4,7 +4,7 @@ As we came to know that housing and utility seem to be top priority of many resi
 
 So lets move on our analysis from following plot.
 
-Click the [link]() to see the code.
+Click the [link](https://github.com/ujjoli/Individual-Project/blob/gh-pages/Individual%20Project%2002.ipynb) to see the code.
 
 ![4 a](4.a..png)
 
