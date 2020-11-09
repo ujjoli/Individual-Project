@@ -4,7 +4,7 @@ After we have analysed the personal income, now we can head up for analyzing spe
 
 Keeping this in mind, lets compare the per capita expenditure of US to per capita income of US over the years. Per capita income means average income made each person and per capita expenditure means average amount of money spended by each person.
 
-Click the [link]() to see the code
+Click the [link](https://github.com/ujjoli/Individual-Project/blob/gh-pages/Individual%20Project%2002.ipynb) to see the code
 
 ![3 a](3.a..png)
 
