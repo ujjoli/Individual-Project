@@ -30,7 +30,7 @@ from dash.dependencies import Input, Output      #to make the dash apps interact
 from IPython.display import display
 plotly.offline.init_notebook_mode()
 ```
-For full length of my code, click here
+For full length of my code, [click here](Individual Project 02.ipynb)
 
 ## 2. Importing files and Reading
 I downloaded the zipfiles from BEA's website. I downloaded 9 of them each of around 50000 rows and 30 columns.
@@ -64,7 +64,7 @@ def filter(x):
     return x_filter  
   (Note: This is just sample.)
 ```
-For full length of my code, click here
+For full length of my code, [click here](Individual Project 02.ipynb)
 ## 4. Visualization and Analysis
   
   For ease of visualization and analysis, I have divided the analysis part into 5 categories:
@@ -105,6 +105,6 @@ For full length of my code, click here
 with their RPP, just the GDP of state might not be enough to co-relate with state's RPP. There might be other factors they come in play.
 
 
-  
+  Thankyou!!!
 
 
