@@ -6,7 +6,7 @@ make the place or the state expensive to live in.
 
 Let's get the **co-relation for California**:
 
-Click the [link]() to see the full code.
+Click the [link](https://github.com/ujjoli/Individual-Project/blob/gh-pages/Individual%20Project%2002.ipynb) to see the full code.
 
 ```
 get_corelation_value(state_GDP,states_Rpp)       #finding co-relation
@@ -45,4 +45,6 @@ calc_regression(state_gdp=state_GDP, state_rpp = states_Rpp, states='New Jersey'
 
 
 So from above analysis we can conclude that just the GDP of state might not be enough to co-relate with state's RPP. There might be other factors they come in play.
+
+Thank you!!
 
